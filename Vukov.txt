@@ -1,1 +1,22 @@
 Vukov.txt
+Условие на задачата
+1. Регистрайте се в GitHub:
+https://github.com
+
+2. Ето тука си пуснете вашия GitHub username:
+https://t.ly/b_yH
+
+3. Вижте си мейлите --> accept invite
+
+4. git clone https://github.com/softuni/sample-repo-13-jun-2023
+
+5. Добавяте локален файл <моето име>.txt
+Примерно Nakov.txt
+
+6. Git add
+Git commit
+Git push
+
+7. Добавете си името във файла
+names.txt
+
