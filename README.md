@@ -1,2 +1,2 @@
-# sample-repo-13-jun-2023
-Just a demo for the students
+# Sample Repo - 13 June 2023
+Just a demo for the students, for the QA track @ SoftUni
